@@ -10,4 +10,4 @@ list_sen: Modifica a função extrair_pronunciamentos_multi, do pacoteSenateBr p
 
 webscrap_sen: Com o banco de links de pronunciamentos, extrai via scraping a transcrição dos pronunciamentos do Senado via HTML (Rodar no Phyton, cerca de 5horas estimadas para conclusão
 
-Uma breve amostra da base após o webscraping pode ser identificada neste [LINK](https://docs.google.com/spreadsheets/d/1niSbrcqGPrELGrbkw_gLZUUTLSDUPQC3/edit?usp=drive_link&ouid=110920979253900523385&rtpof=true&sd=true) ou em [CSV](https://drive.google.com/file/d/1LKc6RlFqEd72SyzOYyBqLvN364S4y_6O/view?usp=drive_link)
+Uma breve amostra da base após o webscraping pode ser identificada neste [LINK](https://drive.google.com/drive/folders/1Kg5inGi0Ogvqu_7b4d2Ko1U7_pQHOyN8?usp=sharing) 
