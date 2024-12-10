@@ -1,3 +1,8 @@
+#SCRIPT DEFINITIVO - TRATAMENTO DE DADOS DO SENADO
+#Discursos em plenário (2011-2023)
+#BRUNO CAMPOS
+#Webscraping dos discursos extraídos pelo pacote SenateBr
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
