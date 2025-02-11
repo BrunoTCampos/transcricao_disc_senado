@@ -7,14 +7,14 @@ Master's student, International Relations, University of São Paulo
 
 ## About the project
 
-Este é um projeto atualizado para extrair as transcrições dos pronunciamentos de senadores e senadoras em R. Utilizando a saída extraída do pacote `{senatebR}`, foi criado um webscraping em Phyton para a visita e extração das transcrições dos pronunciamentos. 
+This is an updated project to extract transcripts of speeches by senators in R. Using the output extracted from the '{senatebR}' package, a web scraping script in Python was created to visit and extract the transcripts of the speeches.
 
-## Descrição para replicação abaixo
+## Replication Description
 
-Seguir os scripts na ordem descrita:
+Follow the scripts in the order described below:
 
-list_sen: Modifica a função extrair_pronunciamentos_multi, do pacote `{senatebR}` para extrair todas as páginas de pronunciamentos do Dados Abertos do Senado, além de gerar anteriormente a lista de senadores com seus respectivos códigos de identificação (R Script)
+list_sen: Modifies the function '{extrair_pronunciamentos_multi}' from the '{senatebR}' package to extract all pages of speeches from the Brazilian Senate's Open Data, in addition to generating a list of senators with their respective identification codes (R Script).
 
-webscrap_sen: Com o banco de links de pronunciamentos em um XLSX, extrai via scraping a transcrição dos pronunciamentos do Senado via HTML (Phyton Script)
+webscrap_sen: Using a database of speech links in an XLSX file, extracts the Senate speech transcripts via HTML scraping (Python Script).
 
-Uma breve amostra da base após o webscraping pode ser identificada neste [LINK](https://drive.google.com/drive/folders/1Kg5inGi0Ogvqu_7b4d2Ko1U7_pQHOyN8?usp=sharing) 
+A brief sample of the dataset after web scraping can be found at this [LINK](https://drive.google.com/drive/folders/1Kg5inGi0Ogvqu_7b4d2Ko1U7_pQHOyN8?usp=sharing) 
